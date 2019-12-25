@@ -12,4 +12,4 @@
 
 
 ### Contributors
-1. [Ravinder Bhattoo](web.iitd.ac.in/~cez177518/)
+1. [Ravinder Bhattoo](https://web.iitd.ac.in/~cez177518/)
