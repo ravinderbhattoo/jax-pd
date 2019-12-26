@@ -3,8 +3,8 @@
 **Peridynamics implementation in [JAX](https://github.com/google/jax) using [Jax-MD](https://github.com/google/jax-md).**
 
 ### TODO
-- [ ] Bond base Peridynamics basic model.
-- [ ] Bond base Peridynamics basic model.
+- [ ] Bond based Peridynamics model (basic).
+- [ ] State based Peridynamics basic (basic).
 
 
 ### Future
